@@ -1,0 +1,4 @@
+Timer 0 Overview:
+Timer 0 (TMR0) is an 8-bit timer/counter module available in the PIC18 family of microcontrollers.
+It can be configured in various modes, including 8-bit mode and 16-bit mode.
+TMR0 can be used for tasks such as generating periodic interrupts, measuring time intervals, and creating output signals.
